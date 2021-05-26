@@ -27,7 +27,7 @@ Compatible device list : [Link](https://github.com/Praddy2009/Adhyan_App/blob/ma
 
 
 - **Code:**
-Adhyan is made using [Unity v2019.4](https://unity3d.com/get-unity/download/archive) and hence contains the assets, C# Scripts, 3D Models and other dependencies that's required to open this project in Unity(Open in same v2019.4 to avoid build error).
+Adhyan is made using [Unity v2020.3](https://unity3d.com/get-unity/download/archive) and hence contains the assets, C# Scripts, 3D Models and other dependencies that's required to open this project in Unity(Open in same v2020.3 to avoid build error).
 
 #### Steps to localhost the project
 1. Check your Android device is compatible - Click Here

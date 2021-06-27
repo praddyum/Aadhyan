@@ -3,8 +3,6 @@
 
 # Adhyan
 ## Immersive Study Solution
-#### **Team :** *Teamname*
-#### **Video Walkthrough:** [Link](https://drive.google.com/file/d/1kdjFySwUpEFdY5VY3iAE0VahWF9rxZ-C/view?usp=sharing) 
 #### **Website:** [Link](https://praddy2009.github.io/portfolio/Projects/Adhyan.html)
 
 #### Description
@@ -36,7 +34,7 @@ Adhyan is made using [Unity v2020.3](https://unity3d.com/get-unity/download/arch
 
 #### Steps to localhost the project
 1. Check your Android device is compatible - [Click Here]((https://github.com/Praddy2009/Adhyan_App/blob/main/Teamname/Adhyan/APK/Adhyan.apk))
-2. Navigate to codeinnovationseries-KIIT/Teamname/Adhyan/APK/
-3. Install Adhyan.apk on your mobile device.
+2. Navigate to Praddy2009/Aadhyan/Build/
+3. Install `adhyan.apk` on your mobile device.
 4. Launch the Application.
 

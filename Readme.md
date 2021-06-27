@@ -21,7 +21,7 @@ Project directory name: Adhyan
 It contains two folders:
 - **APK:**
 It contains the Android apk file ready to install.
-Compatible device list : [Link](https://github.com/Praddy2009/Adhyan_App/blob/main/Teamname/Adhyan/APK/Adhyan.apk) 
+Compatible device list : [Link](https://developers.google.com/ar/devices) 
 
 <hr />
 
@@ -33,7 +33,7 @@ Compatible device list : [Link](https://github.com/Praddy2009/Adhyan_App/blob/ma
 Adhyan is made using [Unity v2020.3](https://unity3d.com/get-unity/download/archive) and hence contains the assets, C# Scripts, 3D Models and other dependencies that's required to open this project in Unity(Open in same v2020.3 to avoid build error).
 
 #### Steps to localhost the project
-1. Check your Android device is compatible - [Click Here]((https://github.com/Praddy2009/Adhyan_App/blob/main/Teamname/Adhyan/APK/Adhyan.apk))
+1. Check your Android device is compatible - [Click Here](https://developers.google.com/ar/devices)
 2. Navigate to Praddy2009/Aadhyan/Build/
 3. Install `adhyan.apk` on your mobile device.
 4. Launch the Application.

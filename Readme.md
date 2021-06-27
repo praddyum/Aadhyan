@@ -29,6 +29,8 @@ Compatible device list : [Link](https://developers.google.com/ar/devices)
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/phCYkU5cFMc/0.jpg)](https://www.youtube.com/watch?v=phCYkU5cFMc)
 
+<hr />
+
 - **Code:**
 Adhyan is made using [Unity v2020.3](https://unity3d.com/get-unity/download/archive) and hence contains the assets, C# Scripts, 3D Models and other dependencies that's required to open this project in Unity(Open in same v2020.3 to avoid build error).
 
